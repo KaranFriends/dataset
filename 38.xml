@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jj</folder>
+	<filename>38.png</filename>
+	<path>C:\Users\Jj\Desktop\photos for major\jj\38.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1008</width>
+		<height>1344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jishu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>651</ymin>
+			<xmax>614</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+</annotation>

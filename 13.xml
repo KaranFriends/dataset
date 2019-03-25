@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jj</folder>
+	<filename>13.png</filename>
+	<path>C:\Users\Jj\Desktop\photos for major\jj\13.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1008</width>
+		<height>1344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jishu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>547</ymin>
+			<xmax>598</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>
